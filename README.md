@@ -1,5 +1,5 @@
-# Projeto Base para Testes - .Net Core  
+# Projeto Crowdfunding para Testes .Net Core  
 
-## Digital Innovation One
+## Avanade && Digital Innovation One
 
 
